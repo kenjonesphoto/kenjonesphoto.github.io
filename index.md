@@ -38,6 +38,7 @@ Ken Jones Photography offers studio sessions in downtown Manhattan and on-locati
 - [Corporate Interview Video Production in NYC](corporate-interview-video-production-nyc/)
 - [Why Professional Lighting Matters in Brand Photography](why-professional-lighting-matters/)
 - [How to Plan a Fashion Editorial Shoot](how-to-plan-a-fashion-editorial-shoot/)
+- [Corporate Interview Video Production in NYC](corporate-interview-video-production-nyc/)
 
 ---
 
