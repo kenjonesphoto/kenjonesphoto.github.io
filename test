@@ -1,142 +1,191 @@
 ---
-layout: default
-title: Ken Jones Photography Articles
-description: Articles, insights, and resources on corporate headshots, executive portraits, fashion photography, beauty photography, studio rental, product photography, and interview video production in New York City.
+title: "Ken Jones Photography Articles | NYC Commercial Photography, Headshots & Video Production"
+description: "Articles and insights from Ken Jones Photography on corporate headshots, executive portraits, commercial photography, fashion photography, studio production, and interview video production in New York City."
+permalink: /
 ---
 
-<div style="max-width: 1200px; margin: 0 auto; padding: 20px; font-family: Georgia, serif; color: #111;">
+<div style="max-width: 1180px; margin: 0 auto; padding: 24px 18px;">
 
-  <!-- Header -->
-  <div style="display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid #ddd; padding-bottom: 18px; margin-bottom: 30px;">
-    <div style="display: flex; align-items: center; gap: 16px;">
-      <img src="/assets/images/ken-jones-logo.png" alt="Ken Jones Photography logo" style="width: 95px; height: auto;">
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 24px; border-bottom: 1px solid #ddd; padding-bottom: 22px; margin-bottom: 36px;">
+    <div style="display: flex; align-items: center; gap: 18px;">
+      <a href="https://kenjonesnyc.com">
+        <img src="/assets/images/ken-jones-photography-logo.png" alt="Ken Jones Photography logo" style="width: 92px; height: auto; display: block;">
+      </a>
       <div>
-        <div style="font-size: 2rem; font-weight: 700; line-height: 1.1;">Ken Jones Photography</div>
-        <div style="font-size: 1rem; color: #666;">Articles, insights, and visual strategy from a New York City commercial photographer</div>
+        <div style="font-size: 1.85rem; line-height: 1.1; font-weight: 700;">Ken Jones Photography Articles</div>
+        <div style="font-size: 1rem; color: #666; margin-top: 5px;">Commercial photography, headshots, fashion, beauty, studio production, and video in NYC</div>
       </div>
     </div>
 
-    <div style="font-size: 0.95rem;">
-      <a href="https://kenjonesnyc.com" style="text-decoration: none; color: #8c1111; margin-right: 18px;">Main Website</a>
-      <a href="https://kenjonesnyc.com/contact" style="text-decoration: none; color: #8c1111;">Contact</a>
+    <div style="font-size: 0.95rem; white-space: nowrap;">
+      <a href="https://kenjonesnyc.com" style="color: #8b1111; text-decoration: none; margin-right: 16px;">Portfolio</a>
+      <a href="https://kenjonesnyc.com/contact" style="color: #8b1111; text-decoration: none;">Contact</a>
     </div>
   </div>
 
-  <!-- Hero -->
-  <div style="background: linear-gradient(135deg, #f6f6f6 0%, #ececec 100%); padding: 40px; border-radius: 10px; margin-bottom: 40px;">
-    <div style="max-width: 850px;">
-      <div style="font-size: 0.95rem; letter-spacing: 1px; text-transform: uppercase; color: #8c1111; font-weight: 700; margin-bottom: 10px;">Photography Journal</div>
-      <h1 style="font-size: 2.8rem; line-height: 1.1; margin: 0 0 18px 0;">A visual resource for brands, executives, agencies, and creatives</h1>
-      <p style="font-size: 1.15rem; line-height: 1.7; color: #333; margin-bottom: 22px;">
-        Welcome to the Ken Jones Photography article archive. Here you’ll find practical insights, behind-the-scenes perspectives,
-        and professional guidance on <strong>corporate headshots</strong>, <strong>executive portraits</strong>, <strong>fashion and beauty photography</strong>,
-        <strong>product photography</strong>, <strong>interview video production</strong>, and <strong>studio rental in NYC</strong>.
+  <section style="background: #111; color: #fff; padding: 46px 38px; border-radius: 14px; margin-bottom: 42px;">
+    <div style="max-width: 860px;">
+      <div style="text-transform: uppercase; letter-spacing: 1.5px; color: #d8b0b0; font-size: 0.85rem; margin-bottom: 12px;">Photography Journal</div>
+      <h1 style="font-size: 2.75rem; line-height: 1.08; margin: 0 0 18px 0; color: #fff;">Articles and insights for brands, executives, agencies, and creative teams</h1>
+      <p style="font-size: 1.15rem; line-height: 1.75; color: #e5e5e5; margin-bottom: 22px;">
+        Welcome to the article hub for <strong>Ken Jones Photography</strong>, a New York City commercial photography and video production studio based on Fulton Street in Manhattan’s Financial District.
       </p>
-      <p style="font-size: 1rem; line-height: 1.7; color: #444; margin-bottom: 26px;">
-        With more than 30 years of experience photographing for corporate clients, agencies, publications, and brands,
-        I use this space to share ideas that help clients plan stronger shoots and make smarter visual decisions.
+      <p style="font-size: 1.05rem; line-height: 1.75; color: #ddd; margin-bottom: 28px;">
+        This library features practical guides, production insight, and behind-the-scenes thinking for corporate headshots, executive portraits, commercial photography, fashion and beauty editorials, product photography, studio rental, and professional interview video production.
       </p>
 
       <div>
-        <a href="https://kenjonesnyc.com/headshots" style="display: inline-block; background: #8c1111; color: #fff; padding: 12px 20px; text-decoration: none; border-radius: 6px; margin-right: 10px;">Corporate Headshots</a>
-        <a href="https://kenjonesnyc.com/interview-video" style="display: inline-block; background: #111; color: #fff; padding: 12px 20px; text-decoration: none; border-radius: 6px; margin-right: 10px;">Interview Video</a>
-        <a href="https://kenjonesnyc.com/photo-studio-rental-nyc" style="display: inline-block; background: #fff; color: #111; padding: 12px 20px; text-decoration: none; border-radius: 6px; border: 1px solid #ccc;">Studio Rental</a>
+        <a href="https://kenjonesnyc.com/corporate-headshots-nyc" style="display: inline-block; background: #9d1717; color: #fff; padding: 12px 18px; border-radius: 6px; text-decoration: none; margin: 0 8px 10px 0;">Corporate Headshots</a>
+        <a href="https://kenjonesnyc.com/interview-video" style="display: inline-block; background: #fff; color: #111; padding: 12px 18px; border-radius: 6px; text-decoration: none; margin: 0 8px 10px 0;">Interview Video</a>
+        <a href="https://kenjonesnyc.com/photo-studio-rental-nyc" style="display: inline-block; background: transparent; color: #fff; padding: 12px 18px; border-radius: 6px; text-decoration: none; border: 1px solid #777; margin: 0 8px 10px 0;">Studio Rental</a>
       </div>
     </div>
+  </section>
+
+</div>
+
+## Featured Articles
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 22px; margin: 28px 0 46px 0;">
+
+  <div style="border: 1px solid #ddd; border-radius: 12px; padding: 24px; background: #fafafa;">
+    <div style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px; color: #8b1111; margin-bottom: 8px;">Corporate Headshots</div>
+    <h3 style="margin-top: 0;">7 Questions to Ask Your Headshot Photographer Before Booking</h3>
+    <p style="line-height: 1.65; color: #555;">A practical guide to choosing the right photographer for executive portraits, LinkedIn images, and company headshots.</p>
+    <a href="7-questions-to-ask-your-headshot-photographer-before-booking/" style="color: #8b1111; font-weight: 700; text-decoration: none;">Read Article →</a>
   </div>
 
-  <!-- Topics -->
-  <h2 style="font-size: 2rem; margin-bottom: 18px;">Explore Topics</h2>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 18px; margin-bottom: 45px;">
-
-    <div style="border: 1px solid #ddd; padding: 22px; border-radius: 8px; background: #fff;">
-      <h3 style="margin-top: 0;">Corporate Headshots</h3>
-      <p style="color: #555; line-height: 1.6;">Advice on planning executive portraits, team headshots, wardrobe, lighting, and branding.</p>
-      <a href="https://kenjonesnyc.com/headshots" style="color: #8c1111; text-decoration: none; font-weight: 700;">View Service →</a>
-    </div>
-
-    <div style="border: 1px solid #ddd; padding: 22px; border-radius: 8px; background: #fff;">
-      <h3 style="margin-top: 0;">Fashion & Beauty</h3>
-      <p style="color: #555; line-height: 1.6;">Editorial thinking, campaign visuals, and beauty photography for fashion and cosmetics brands.</p>
-      <a href="https://kenjonesnyc.com/fashion-photographer-ny" style="color: #8c1111; text-decoration: none; font-weight: 700;">View Portfolio →</a>
-    </div>
-
-    <div style="border: 1px solid #ddd; padding: 22px; border-radius: 8px; background: #fff;">
-      <h3 style="margin-top: 0;">Product Photography</h3>
-      <p style="color: #555; line-height: 1.6;">Visual strategy for e-commerce, luxury products, advertising, and clean studio product imagery.</p>
-      <a href="https://kenjonesnyc.com/ecom" style="color: #8c1111; text-decoration: none; font-weight: 700;">View Product Work →</a>
-    </div>
-
-    <div style="border: 1px solid #ddd; padding: 22px; border-radius: 8px; background: #fff;">
-      <h3 style="margin-top: 0;">Interview Video</h3>
-      <p style="color: #555; line-height: 1.6;">Production insight for interviews, case studies, branded content, and corporate video in NYC.</p>
-      <a href="https://kenjonesnyc.com/interview-video" style="color: #8c1111; text-decoration: none; font-weight: 700;">View Video Work →</a>
-    </div>
-
+  <div style="border: 1px solid #ddd; border-radius: 12px; padding: 24px; background: #fafafa;">
+    <div style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px; color: #8b1111; margin-bottom: 8px;">Commercial Photography</div>
+    <h3 style="margin-top: 0;">Hiring a Commercial Photographer in NYC</h3>
+    <p style="line-height: 1.65; color: #555;">What brands, agencies, and businesses should know before planning a professional photography production.</p>
+    <a href="hiring-a-commercial-photographer-in-nyc/" style="color: #8b1111; font-weight: 700; text-decoration: none;">Read Article →</a>
   </div>
 
-  <!-- Featured Articles -->
-  <h2 style="font-size: 2rem; margin-bottom: 18px;">Featured Articles</h2>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 50px;">
-
-    <div style="border: 1px solid #ddd; border-radius: 10px; padding: 24px; background: #fafafa;">
-      <div style="font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1px; color: #8c1111; margin-bottom: 8px;">Corporate Headshots</div>
-      <h3 style="margin-top: 0;">7 Questions to Ask Your Headshot Photographer Before Booking</h3>
-      <p style="color: #555; line-height: 1.7;">
-        A practical guide to choosing the right headshot photographer, understanding what matters, and preparing for a stronger result.
-      </p>
-      <a href="/7-questions-to-ask-your-headshot-photographer-before-booking/" style="color: #8c1111; text-decoration: none; font-weight: 700;">Read Article →</a>
-    </div>
-
-    <div style="border: 1px solid #ddd; border-radius: 10px; padding: 24px; background: #fafafa;">
-      <div style="font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1px; color: #8c1111; margin-bottom: 8px;">Beauty Photography</div>
-      <h3 style="margin-top: 0;">Beauty Photography NYC: Crafting High-End Visuals for Cosmetics and Skincare</h3>
-      <p style="color: #555; line-height: 1.7;">
-        A closer look at what makes strong beauty imagery and how lighting, styling, and concept work together for polished results.
-      </p>
-      <a href="/beauty-photography-nyc-crafting-high-end-visuals-for-cosmetics-and-skincare/" style="color: #8c1111; text-decoration: none; font-weight: 700;">Read Article →</a>
-    </div>
-
-    <div style="border: 1px solid #ddd; border-radius: 10px; padding: 24px; background: #fafafa;">
-      <div style="font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1px; color: #8c1111; margin-bottom: 8px;">Studio Rental</div>
-      <h3 style="margin-top: 0;">Why a Professional Photography Studio in NYC Still Matters</h3>
-      <p style="color: #555; line-height: 1.7;">
-        Learn how studio space, lighting control, convenience, and production support help create better commercial and editorial work.
-      </p>
-      <a href="https://kenjonesnyc.com/photo-studio-rental-nyc" style="color: #8c1111; text-decoration: none; font-weight: 700;">Learn More →</a>
-    </div>
-
+  <div style="border: 1px solid #ddd; border-radius: 12px; padding: 24px; background: #fafafa;">
+    <div style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px; color: #8b1111; margin-bottom: 8px;">Headshot Prep</div>
+    <h3 style="margin-top: 0;">How to Prepare for a Corporate Headshot in NYC</h3>
+    <p style="line-height: 1.65; color: #555;">Wardrobe, expression, grooming, lighting, and practical planning advice for better business portraits.</p>
+    <a href="how-to-prepare-for-a-corporate-headshot/" style="color: #8b1111; font-weight: 700; text-decoration: none;">Read Article →</a>
   </div>
 
-  <!-- About Section -->
-  <div style="display: grid; grid-template-columns: 1.3fr 1fr; gap: 30px; align-items: start; margin-bottom: 50px;">
-    <div>
-      <h2 style="font-size: 2rem; margin-top: 0;">About This Site</h2>
-      <p style="line-height: 1.8; color: #444;">
-        This article site supports the broader work of <strong>Ken Jones Photography</strong>, a New York City commercial photography and video production studio based near Fulton Street in Manhattan’s Financial District.
-      </p>
-      <p style="line-height: 1.8; color: #444;">
-        The articles are designed to help clients understand the creative and practical side of production — from lighting and direction to planning, branding, and choosing the right visual approach for a project.
-      </p>
-    </div>
-
-    <div style="background: #111; color: #fff; padding: 28px; border-radius: 10px;">
-      <h3 style="margin-top: 0; color: #fff;">Need a photographer or studio in NYC?</h3>
-      <p style="line-height: 1.7; color: #ddd;">
-        I work with executives, agencies, brands, and businesses on headshots, editorial, product work, campaigns, and interview video production.
-      </p>
-      <a href="https://kenjonesnyc.com/contact" style="display: inline-block; background: #8c1111; color: #fff; padding: 12px 18px; text-decoration: none; border-radius: 6px; margin-top: 8px;">Get in Touch</a>
-    </div>
+  <div style="border: 1px solid #ddd; border-radius: 12px; padding: 24px; background: #fafafa;">
+    <div style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px; color: #8b1111; margin-bottom: 8px;">Corporate Photography</div>
+    <h3 style="margin-top: 0;">Studio vs. On-Location Corporate Headshots</h3>
+    <p style="line-height: 1.65; color: #555;">How to choose between a controlled studio environment and a workplace-based headshot session.</p>
+    <a href="studio-vs-on-location-corporate-headshots/" style="color: #8b1111; font-weight: 700; text-decoration: none;">Read Article →</a>
   </div>
 
-  <!-- Footer -->
-  <div style="border-top: 1px solid #ddd; padding-top: 22px; margin-top: 25px; font-size: 0.95rem; color: #666;">
-    <p>
-      <strong>Ken Jones Photography</strong> · New York City Commercial Photographer · Corporate Headshots · Executive Portraits · Fashion & Beauty Photography · Product Photography · Interview Video Production · Studio Rental
-    </p>
-    <p>
-      Visit the main portfolio: <a href="https://kenjonesnyc.com" style="color: #8c1111;">kenjonesnyc.com</a>
-    </p>
+  <div style="border: 1px solid #ddd; border-radius: 12px; padding: 24px; background: #fafafa;">
+    <div style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px; color: #8b1111; margin-bottom: 8px;">Executive Portraits</div>
+    <h3 style="margin-top: 0;">What Makes a Strong Executive Portrait?</h3>
+    <p style="line-height: 1.65; color: #555;">A look at lighting, expression, posture, environment, and visual credibility in executive portraiture.</p>
+    <a href="what-makes-a-strong-executive-portrait/" style="color: #8b1111; font-weight: 700; text-decoration: none;">Read Article →</a>
+  </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 12px; padding: 24px; background: #fafafa;">
+    <div style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px; color: #8b1111; margin-bottom: 8px;">Video Production</div>
+    <h3 style="margin-top: 0;">Corporate Interview Video Production in NYC</h3>
+    <p style="line-height: 1.65; color: #555;">Planning, lighting, sound, b-roll, interviews, and production support for corporate video projects.</p>
+    <a href="corporate-interview-video-production-nyc/" style="color: #8b1111; font-weight: 700; text-decoration: none;">Read Article →</a>
+  </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 12px; padding: 24px; background: #fafafa;">
+    <div style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px; color: #8b1111; margin-bottom: 8px;">Lighting</div>
+    <h3 style="margin-top: 0;">Why Professional Lighting Matters in Brand Photography</h3>
+    <p style="line-height: 1.65; color: #555;">How lighting shapes mood, polish, brand consistency, skin tone, product detail, and visual authority.</p>
+    <a href="why-professional-lighting-matters/" style="color: #8b1111; font-weight: 700; text-decoration: none;">Read Article →</a>
+  </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 12px; padding: 24px; background: #fafafa;">
+    <div style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px; color: #8b1111; margin-bottom: 8px;">Fashion Editorial</div>
+    <h3 style="margin-top: 0;">How to Plan a Fashion Editorial Shoot</h3>
+    <p style="line-height: 1.65; color: #555;">Creative direction, styling, model direction, lighting, location, and production planning for fashion stories.</p>
+    <a href="how-to-plan-a-fashion-editorial-shoot/" style="color: #8b1111; font-weight: 700; text-decoration: none;">Read Article →</a>
+  </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 12px; padding: 24px; background: #fafafa;">
+    <div style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px; color: #8b1111; margin-bottom: 8px;">Beauty Photography</div>
+    <h3 style="margin-top: 0;">Beauty Photography NYC</h3>
+    <p style="line-height: 1.65; color: #555;">Crafting high-end visuals for cosmetics, skincare, fashion, hair, nails, and beauty campaigns.</p>
+    <a href="beauty-photography-nyc-crafting-high-end-visuals-for-cosmetics-and-skincare/" style="color: #8b1111; font-weight: 700; text-decoration: none;">Read Article →</a>
   </div>
 
 </div>
+
+---
+
+## Photography & Video Topics
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 20px; margin: 30px 0 46px 0;">
+
+  <div style="border-left: 4px solid #8b1111; padding: 8px 0 8px 18px;">
+    <h3>Corporate Headshots and Executive Portraits</h3>
+    <p>Professional headshots, LinkedIn profile images, company website portraits, attorney headshots, financial executive portraits, corporate team photography, and business branding images.</p>
+    <p><a href="https://kenjonesnyc.com/corporate-headshots-nyc">View Corporate Headshots in NYC →</a></p>
+  </div>
+
+  <div style="border-left: 4px solid #8b1111; padding: 8px 0 8px 18px;">
+    <h3>Commercial Photography</h3>
+    <p>Guides for companies, agencies, entrepreneurs, and brands planning commercial photography, advertising images, product photography, marketing campaigns, professional portraits, and visual content for business use.</p>
+    <p><a href="https://kenjonesnyc.com">Visit Ken Jones Photography →</a></p>
+  </div>
+
+  <div style="border-left: 4px solid #8b1111; padding: 8px 0 8px 18px;">
+    <h3>Interview Video Production</h3>
+    <p>Professional interview video, executive messaging, corporate video production, client testimonials, event videos, keynote videos, b-roll, lighting, sound, and production planning.</p>
+    <p><a href="https://kenjonesnyc.com/interview-video">View Interview Video Production →</a></p>
+  </div>
+
+  <div style="border-left: 4px solid #8b1111; padding: 8px 0 8px 18px;">
+    <h3>Fashion and Beauty Photography</h3>
+    <p>Editorial fashion photography, beauty photography, fashion collaborations, model portfolio shoots, lookbooks, designer campaigns, styling, creative direction, and production planning.</p>
+    <p><a href="https://kenjonesnyc.com/fashion-photographer-ny">View Fashion Photography →</a></p>
+  </div>
+
+  <div style="border-left: 4px solid #8b1111; padding: 8px 0 8px 18px;">
+    <h3>Manhattan Photo Studio Rental</h3>
+    <p>Studio production, lighting, studio rental, creative shoots, fashion photography, product photography, corporate headshots, and small video productions at FultonStudio in downtown Manhattan.</p>
+    <p><a href="https://kenjonesnyc.com/photo-studio-rental-nyc">View Manhattan Photo Studio Rental →</a></p>
+  </div>
+
+</div>
+
+---
+
+## About Ken Jones Photography
+
+**Ken Jones Photography** is a New York City photography and video production studio located on Fulton Street in Manhattan’s Financial District. The studio works with executives, corporate teams, agencies, fashion brands, media companies, entrepreneurs, designers, and creative professionals who need strong visual content created with professional lighting, direction, and production support.
+
+Ken Jones has more than 30 years of experience creating corporate headshots, executive portraits, commercial photography, fashion editorials, beauty images, product photography, interview videos, and branded visual content for clients throughout New York City and beyond.
+
+<div style="background: #f4f4f4; border-radius: 12px; padding: 28px; margin: 34px 0;">
+  <h2 style="margin-top: 0;">Need photography, video production, or studio space in NYC?</h2>
+  <p style="line-height: 1.7;">
+    Ken Jones Photography offers studio sessions in downtown Manhattan and on-location photography and video production throughout New York City.
+  </p>
+  <p>
+    <a href="https://kenjonesnyc.com/contact" style="display: inline-block; background: #8b1111; color: #fff; padding: 12px 18px; border-radius: 6px; text-decoration: none; margin-right: 8px;">Contact Ken Jones Photography</a>
+    <a href="https://kenjonesnyc.com" style="display: inline-block; background: #111; color: #fff; padding: 12px 18px; border-radius: 6px; text-decoration: none;">Visit Main Website</a>
+  </p>
+</div>
+
+[Main Website](https://kenjonesnyc.com)  
+[Corporate Headshots](https://kenjonesnyc.com/corporate-headshots-nyc)  
+[Interview Video Production](https://kenjonesnyc.com/interview-video)  
+[Studio Rental](https://kenjonesnyc.com/photo-studio-rental-nyc)  
+[Contact Ken Jones Photography](https://kenjonesnyc.com/contact)
+
+---
+
+## Service Areas
+
+Ken Jones Photography works with clients throughout New York City, including Manhattan, the Financial District, Wall Street, Tribeca, SoHo, Midtown, Chelsea, Brooklyn, Queens, and surrounding areas.
+
+Services are available in studio or on location.
+
+---
+
+## Topics Covered
+
+NYC commercial photography, New York City photographer, corporate headshots NYC, executive portraits NYC, professional headshots, LinkedIn headshots, business portraits, corporate photographer New York, fashion photographer NYC, beauty photography, product photography NYC, interview video production NYC, corporate video production, Manhattan photo studio rental, Fulton Street photography studio, Financial District photographer, and Ken Jones Photography.
