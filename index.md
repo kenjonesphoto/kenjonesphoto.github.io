@@ -39,6 +39,7 @@ Ken Jones Photography offers studio sessions in downtown Manhattan and on-locati
 - [Why Professional Lighting Matters in Brand Photography](why-professional-lighting-matters/)
 - [How to Plan a Fashion Editorial Shoot](how-to-plan-a-fashion-editorial-shoot/)
 - [Beauty Photography NYC: Crafting High-End Visuals for Cosmetics and Skincare](beauty-photography-nyc-crafting-high-end-visuals-for-cosmetics-and-skincare/)
+
 ---
 
 ## Photography & Video Topics
@@ -97,6 +98,6 @@ Services are available in studio or on location.
 
 ---
 
-## Keywords
+## Topics Covered
 
-NYC commercial photographer, New York City photographer, corporate headshots NYC, executive portraits NYC, professional headshots, LinkedIn headshots, business portraits, corporate photographer New York, fashion photographer NYC, beauty photography, product photography NYC, interview video production NYC, corporate video production, Manhattan photo studio rental, Fulton Street photography studio, Financial District photographer, Ken Jones Photography.
+NYC commercial photography, New York City photographer, corporate headshots NYC, executive portraits NYC, professional headshots, LinkedIn headshots, business portraits, corporate photographer New York, fashion photographer NYC, beauty photography, product photography NYC, interview video production NYC, corporate video production, Manhattan photo studio rental, Fulton Street photography studio, Financial District photographer, and Ken Jones Photography.
