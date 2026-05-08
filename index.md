@@ -9,7 +9,7 @@ permalink: /
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 24px; border-bottom: 1px solid #ddd; padding-bottom: 22px; margin-bottom: 36px;">
     <div style="display: flex; align-items: center; gap: 18px;">
       <a href="https://kenjonesnyc.com">
-        <img src="/assets/images/ken-jones-photography-logo.png" alt="Ken Jones Photography logo" style="width: 92px; height: auto; display: block;">
+        <img src="/ken-jones-photography-logo.png" alt="Ken Jones Photography logo" style="width: 92px; height: auto; display: block;">
       </a>
       <div>
         <div style="font-size: 1.85rem; line-height: 1.1; font-weight: 700;">Ken Jones Photography Articles</div>
