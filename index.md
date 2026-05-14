@@ -115,7 +115,7 @@ permalink: /
     <div style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px; color: #8b1111; margin-bottom: 8px;">Model Portfolios</div>
     <h3 style="margin-top: 0;">Why Most Modeling Portfolios Don’t Work</h3>
     <p style="line-height: 1.65; color: #555;">A personal look at what NYC agencies really want from model portfolios, clean digitals, editorial range, and professional production value.</p>
-    <a href="model-portfolio-nyc-github-article/" style="color: #8b1111; font-weight: 700; text-decoration: none;">Read Article →</a>
+    <a href="model-portfolio-nyc/" style="color: #8b1111; font-weight: 700; text-decoration: none;">Read Article →</a>
   </div>
 
 </div>
