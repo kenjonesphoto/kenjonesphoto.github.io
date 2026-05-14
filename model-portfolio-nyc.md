@@ -266,7 +266,7 @@ If you are serious about building a professional modeling portfolio in New York 
 ## Suggested SEO Metadata
 
 **Title:**  
-Building a Professional Model Portfolio in NYC | Ken Jones Photography
+Building a Professional Model Portfolio in NYC | Ken Jones Photography.
 
 **Description:**  
 A New York City fashion photographer explains why most modeling portfolios fail, what agencies actually look for, and how to build a stronger professional book.
