@@ -265,21 +265,21 @@ If you are serious about building a professional modeling portfolio in New York 
 
 ## Suggested SEO Metadata
 
-**SEO Title:**  
+**Title:**  
 Building a Professional Model Portfolio in NYC | Ken Jones Photography
 
-**Meta Description:**  
+**Description:**  
 A New York City fashion photographer explains why most modeling portfolios fail, what agencies actually look for, and how to build a stronger professional book.
 
-**Suggested URL Slug:**  
+**Slug:**  
 `model-portfolio-nyc-agency-ready`
 
-**Suggested Tags:**  
+**Tags:**  
 `model portfolio nyc`, `nyc fashion photographer`, `model test shoot`, `agency portfolio`, `commercial modeling`, `editorial photography`, `ken jones photography`
 
 ---
 
-## Suggested Social Share Text
+## Social Share
 
 A strong modeling portfolio is not the same thing as a good Instagram feed. Agencies want to see structure, range, production value, and potential. I wrote about what actually makes a model portfolio work in today’s NYC market.
 
