@@ -52,7 +52,7 @@ permalink: /
     <div style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px; color: #8b1111; margin-bottom: 8px;">Fashion Photography</div>
     <h3 style="margin-top: 0;">High-End Fashion Photography in NYC</h3>
     <p style="line-height: 1.65; color: #555;">How lighting, styling, collaboration, and visual storytelling help create luxury fashion imagery for designers, agencies, and brands.</p>
-    <a href="/high-end-fashion-photography-nyc/" style="color: #8b1111; font-weight: 700; text-decoration: none;">Read Article →</a>
+    <a href="/high-end-fashion-photography-nyc" style="color: #8b1111; font-weight: 700; text-decoration: none;">Read Article →</a>
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 12px; padding: 24px; background: #fafafa;">
